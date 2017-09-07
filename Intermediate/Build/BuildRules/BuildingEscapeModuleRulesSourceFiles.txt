@@ -1,3 +1,0 @@
-C:\Users\italo\Documents\Unreal Projects\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
-C:\Users\italo\Documents\Unreal Projects\BuildingEscape\Source\BuildingEscape.Target.cs
-C:\Users\italo\Documents\Unreal Projects\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
